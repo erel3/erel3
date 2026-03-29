@@ -1,6 +1,6 @@
 ### Hi, I'm Andrey
 
-Software engineer based in Almaty, Kazakhstan. 6+ years building distributed systems in Go, Kotlin, and Python for banking, fintech, telemedicine, and consulting clients.
+Software engineer based in Almaty, Kazakhstan. 8+ years in software engineering, building distributed systems in Go, Kotlin, and Python for banking, fintech, telemedicine, and consulting clients.
 
 Competitive programming background — trained an ICPC World Finals team (21st place, Porto 2019), Codeforces Grandmaster (max 2477), won AI programming contests.
 
